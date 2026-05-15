@@ -1,7 +1,7 @@
 # Algoritma
-## Flowchart membuat segitiga bintang dengan doWhile
+## Flowchart membuat segitiga bintang dengan do-While
 
-Algoritma ini menjalaskan tentang pembuatan segitiga bintang menggunakan Flowchart dengan Loop doWhile
+Algoritma ini menjalaskan tentang pembuatan segitiga bintang menggunakan Flowchart dengan Loop do-While
 
 ```mermaid
 flowchart TD
